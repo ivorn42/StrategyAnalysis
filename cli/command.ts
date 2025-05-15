@@ -24,7 +24,7 @@ programCommand("config").action(async (directory, cmd) => {
 });
 
 programCommand("create")
-    .requiredOption("-t, --time <number>", "swap amount")
+    .requiredOption("-t, --time <number>", "round duration")
     .requiredOption("-d, --minDeposit <number>", "min deposit amount")
     .requiredOption("-j, --maxJoiner <number>", "max joiner count")
     .action(async (directory, cmd) => {
