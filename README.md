@@ -170,3 +170,10 @@ yarn script claim -g 2
 **Note:** This must be run by the winning wallet after the winner has been selected.
 
 ---
+
+
+## Contact
+
+For questions or inquiries about Solana smart contract development, DeFi implementation, or DEX integration, please reach out to the project maintainers.
+
+**Telegram**: [@Ivorn42](https://t.me/ivorn42)
